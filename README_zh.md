@@ -207,7 +207,6 @@ cp .env.example .env
 ```ini
 # 工具 API 密钥
 TAVILY_API_KEY=your_tavily_api_key
-JINA_API_KEY=your_jina_api_key  # 可选
 
 # 浏览器配置
 CHROME_INSTANCE_PATH=/Applications/Google Chrome.app/Contents/MacOS/Google Chrome  # 可选，Chrome 可执行文件路径
